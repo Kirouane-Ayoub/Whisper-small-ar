@@ -7,8 +7,8 @@
 
 Whisper-small-ar is an Automatic Speech Recognition (ASR) model fine-tuned specifically for the Arabic language using the Whisper model architecture. ASR models are designed to convert spoken language into written text. This model has been fine-tuned on the Mozilla Common Voice dataset (version 11.0) to transcribe spoken Arabic speech into textual form.
 
-**https://huggingface.co/ayoubkirouane/whisper-small-ar**
-
+* Model : **https://huggingface.co/ayoubkirouane/whisper-small-ar**
+* Space: **https://huggingface.co/spaces/ayoubkirouane/whisper-small-ar**
 
 ### Key Features
 
