@@ -39,3 +39,7 @@ Whisper-small-ar can be employed in a variety of ASR use cases, including:
 pip install -r requirements.txt
 python app.py
 ```
+
+### Deployment :
+- **By Kirouane Ayoub**
+
